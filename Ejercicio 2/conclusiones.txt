@@ -1,0 +1,14 @@
+Hallazgos:
+1. Inconsistencias en el Response Body: Observe que el Response Body de la API tenía inconsistencias, siempre devolvía type=unknown.
+   Esto puede dificultar la comprensión de la respuesta y la extracción de información útil.
+2. Documentación incompleta: Observe que algunos endpoints de la API no estaban completos, por ejemplo, en algunos faltaban los códigos
+   de respuesta que devolvían.
+3. Problemas de validación al actualizar usuarios: Note que al actualizar un usuario utilizando el endpoint correspondiente, la API siempre
+   respondía con un código 200, incluso si la información proporcionada no era válida y al comprobar con el método GET, no se reflejaban
+   las actualizaciones.
+
+Conclusiones:
+Este ejercicio resultó ser muy interesante. Documentar APIs en Swagger es de gran utilidad para optimizar el proceso de automatización.
+Algo curiosos es que previamente había automatizado tareas utilizando comandos básicos en Postman, pero este ejercicio me desafió a 
+explorar y aprender Cypress. Durante este proceso, me percaté de que Cypress es una herramienta poderosa y que su curva de aprendizaje
+resultó ser fácil, ya que comparte similitudes con otras herramientas que he utilizado, como Jest, Mocha y etc.

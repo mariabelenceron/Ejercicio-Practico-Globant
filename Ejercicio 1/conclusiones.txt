@@ -1,0 +1,12 @@
+Hallazgos:
+1. Utilidad de la Aplicación: La aplicación es super util para practicar automatizaciones.
+2. Variedad de elementos y funcionalidades: Me pareció bastante interesante porque es una página muy completa, con diferentes elementos como 
+   un menu tipo Breadcrumb, Radio Buttons, Checkboxes, Date picker, validaciones y mucho más.
+3. Desarrollo desordenado de la aplicación: Lo que si me llamo la atención fue que era una pagina desarrollada sin orden, y eso lo menciono 
+   porque por ejemplo para seleccionar elementos fue un poco complicado ya que habían algunos elementos que no tenían id, name, etc y lo que 
+   me toco hacer es usar XPATH y CSS como ultimas opciones.
+
+Conclusiones:
+Este ejercicio fue bastante completo ya que se ponía a prueba la capacidad de manejar ciertas situaciones complejas como, por ejemplo, el
+no poder seleccionar un elemento de manera sencilla usando selectores comunes. Sin embargo, este proyecto no solo me brindó una oportunidad 
+para mejorar, sino también para aprender a adaptarme y resolver problemas en entornos de desarrollo desordenados o no convencionales.
