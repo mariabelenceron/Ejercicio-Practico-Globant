@@ -14,7 +14,7 @@ Este repositorio contiene la resolución de los ejercicios prácticos
   cd Ejercicio-Practico-Globant
   ```
 ## Uso
-Una vez dentro, abrir la carpeta de cada ejercicio y seguir los pasos del archivo readme.md de los proyectos.
+Una vez dentro, abrir la carpeta de cada ejercicio y seguir los pasos del archivo readme de los proyectos.
 
 ## Descripción General
 ### Ejercicio 1
